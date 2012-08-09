@@ -1,0 +1,27 @@
+layout : default
+auto: true
+pygments: true
+paginate: 10
+markdown: rdiscount
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+exclude:
+  - Rakefile
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - config.ru
+
+name: Sascha Faun Winter
+
+header_navigation:
+    - name: Home
+      url: /
+    - name: Projects
+      url: /projects.html
+    - name: Resume
+      url:  /resume.html

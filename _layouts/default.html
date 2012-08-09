@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal portfolio and blog of Sascha Faun Winter">
+    <meta name="author" content="Sascha Faun Winter">
+
+    <link href="/bootstrap/css/custom.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="/assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-precomposed.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="/">{{ site.name }}</a>
+<!-- header -->
+{% include _header.html %}<!-- /header -->
+
+        </div><!--/container-->
+      </div><!--/navbar-inner-->
+    </div><!--navbar-->
+
+    <div class="container">
+      <div class="row">
+        <div class="span8">
+          {% if page.title %}<h1 class="page-title">{{page.title}}</h1>{% endif %}
+<!--content-->
+{{ content }}<!--/content-->
+        </div> <!--/span8-->
+        <div class="span4">
+
+<!-- sidebar -->
+{% include sidebar.html %}<!-- /sidebar -->
+        </div> <!--span4-->
+      </div><!--/row-->
+    </div><!--/container-->
+{% include bootstrap.js.html %}
+  </body>
+</html>

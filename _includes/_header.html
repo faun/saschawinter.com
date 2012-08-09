@@ -1,0 +1,9 @@
+<div class="nav">
+  <ul class="nav">
+    {% for item in site.header_navigation %}
+    <li class="">
+      <a{% if item.url %} href="{{ item.url }}"{% endif %}>{{ item.name }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
