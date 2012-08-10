@@ -1,12 +1,18 @@
-<div class="section">
-  <div class="post">
+<aside>
+  <nav class="posts">
     <h3 class="post_title">All Posts:</h3>
-    <div class="article">
-      <ul class="recent">
-        {% for post in site.posts %}
-        <li>{{ post.date | date:"%Y-%m-%d" }}: <a href="{{ post.url }}">{{ post.title }}</a>{% if post.category %} filed in {{ post.category }} {% endif %}</li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-</div>
+    <ul class="recent">
+{% for post in site.posts %}
+      <li>{{ post.date | date:"%Y-%m-%d" }}: <a href="{{ post.url }}">{{ post.title }}</a>{% if post.category %} filed in {{ post.category }} {% endif %}</li>
+{% endfor %}
+    </ul>
+  </nav>
+  <nav class="elsewhere">
+    <h3>Elsewhere on the Web</h3>
+    <ul>
+{% for link in site.external_links %}
+      <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+{% endfor %}
+    </ul>
+  </nav>
+</aside>
