@@ -1,7 +1,9 @@
 ---
 layout: default
 title: My Resume
+
 ---
+
 ##Profile
 
 Seeking opportunities in team-oriented development, interaction design and large-scale deployment in an agile environment utilizing continuous integration and test-driven methodologies.
