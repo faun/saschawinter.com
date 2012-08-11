@@ -5,26 +5,27 @@ Use Ruby 1.9
 
 ####Step 2
 
-Run Bundler
+Bundle
 
     bundle install
 
 ####Step 3
 
-Build with rake
+Build with bootstrap
 
+    git clone git://github.com/faun/bootstrap.git $HOME/src/bootstrap
     rake
 
 ####Step 4
 
-Deploy
+View it in a browser
 
-##### Install s3cmd
+    rackup
+    open http://0.0.0.0:9292
 
-    brew install s3cmd
+####Optional
 
-    rake deploy
+Watch for changes with guard
 
-##### Todo
+    guard
 
-Create rake deploy command
