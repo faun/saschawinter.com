@@ -22,13 +22,17 @@ Craftsman of hand-coded, cross-browser compatible frontend code with a strong ad
 
 - Frameworks: Rails 2 & 3, Sinatra & Static Ruby Frameworks, Backbone, CodeIgniter, WordPress & custom development
 
-##Previous Employment
+##Employment
 
-####Application Developer: John McNeil Studio, Berkeley, CA - April 2012 to July 2012
+####Owner; Hydra Development, Inc., San Francisco, Ca - August 2012 to Present
+
+Founder and lead developer at a software development company focused on building high-quality, scalable and robust web applications for companies in the technology industry.
+
+####Application Developer; John McNeil Studio, Berkeley, CA - April 2012 to July 2012
 
 Created sophisticated web and mobile applications using Ruby on Rails, Test-Unit, Capybara, Backbone, jQuery, QUint, Sinon.js, HTML5, CSS3, and PhoneGap for a major health insurance company.
 
-####Web/Applications Developer, Traction Corporation, San Francisco, CA - Mar 2008 to April 2012
+####Web/Applications Developer; Traction Corporation, San Francisco, CA - Mar 2008 to April 2012
 
 Responsible for development of email campaigns, web applications, microsites and e-commerce solutions for corporate clients on a strict timeframe and with exacting specifications and requirements. Built Rails application for company blog and portfolio. Responsible for delivering exacting work under tight timelines and demanding expectations. Templates created using a custom-built email templating engine for handoff to worldwide partners. Delivery of emails up to 150M per month. Significant projects include: 
 
@@ -37,7 +41,7 @@ Responsible for development of email campaigns, web applications, microsites and
 - Direct marking components associated with Apple Retail launches including new store openings and other retail initiatives.
 - Clients included Apple, Adobe, Futures Without Violence, Message Systems, Alibaba.com, Bank of America, Camelbak, Walmart.com & more.
 
-####Wireless Network Technician, Surfnet Communications, Los Gatos, CA - Jan 2007 to Feb 2008
+####Wireless Network Technician; Surfnet Communications, Los Gatos, CA - Jan 2007 to Feb 2008
 
 Acted as a long-range wireless network technician for an Internet service provider serving the Santa Cruz Mountains.  Duties included the installation, repair and maintenance of hundreds of wireless clients connected to remote access points; professional website development for administrative website including the creation of a custom geographic profiling application.
 
