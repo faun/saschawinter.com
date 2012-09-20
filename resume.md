@@ -24,7 +24,7 @@ Craftsman of hand-coded, cross-browser compatible frontend code with a strong ad
 
 ##Employment
 
-####Owner; Hydra Development, Inc., San Francisco, Ca - August 2012 to Present
+####Owner & CEO; Hydra Development, Inc., San Francisco, Ca - August 2012 to Present
 
 Founder and lead developer at a software development company focused on building high-quality, scalable and robust web applications for companies in the technology industry.
 
