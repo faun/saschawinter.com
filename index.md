@@ -3,9 +3,12 @@ layout: default
 title: Sascha Faun Winter
 
 ---
-
-<div class="well">
-  <h3>Pragmatic Web Developer and Sculptor of Awesome</h3>
+<div class="row page-header">
+  <div class="span2">
+    <img src="//assets.saschawinter.com/static_assets/suit_up.jpg" />
+  </div>
+  <div class="span6">
+    <h2>Pragmatic Web Developer &amp; Sculptor of Awesome</h2>
+    <p>See my <a href="resume.html">resume</a> for more information.</p>
+  </div>
 </div>
-
-See my [resume](resume.html) and [recent projects](projects.html)
