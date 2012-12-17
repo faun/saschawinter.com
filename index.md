@@ -5,7 +5,7 @@ title: Sascha Faun Winter
 ---
 <div class="row page-header">
   <div class="span2">
-    <img src="//assets.saschawinter.com/static_assets/suit_up.jpg" />
+    <img src="//assets.saschawinter.com/static_assets/suit_up.jpg" alt="This is me, in case there was any doubt." />
   </div>
   <div class="span6">
     <h2>Pragmatic Web Developer &amp; Sculptor of Awesome</h2>
