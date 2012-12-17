@@ -86,6 +86,11 @@ def different?(path1, path2)
   end
 end
 
+def ask message
+  print message
+  STDIN.gets.chomp
+end
+
 task :bootstrap => [:bootstrap_js, :bootstrap_css, :bootstrap_img]
 
 task :bootstrap_js do
