@@ -77,7 +77,6 @@ BOOTSTRAP_CUSTOM_LESS = 'bootstrap/less/custom.less'
 
 def different?(path1, path2)
   require 'digest/md5'
-  different = false
   if File.exist?(path1) && File.exist?(path2)
     path1_md5 = Digest::MD5.hexdigest(File.read path1)
     path2_md5 = Digest::MD5.hexdigest(File.read path2)
