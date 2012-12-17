@@ -6,7 +6,7 @@ description: "This script can be used to restore Amazon S3 objects that were arc
 
 ###The Problem
 
-A few weeks ago I got into a situation in which I needed to restore a large number of files from Amazon's then-new service: S3 Archive (Glacier). These objects (Amazon's word for files), are not standard Glacier objects, but are S3 objects that have been [transitioned](http://docs.amazonwebservices.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html) to long-term storage. You ca n read more about Glacier [here](http://aws.amazon.com/glacier/).
+A few weeks ago I got into a situation in which I needed to restore a large number of files from Amazon's then-new service: S3 Archive (Glacier). These objects (Amazon's word for files), are not standard Glacier objects, but are S3 objects that have been [transitioned](http://docs.amazonwebservices.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html) to long-term storage. You can read more about Glacier [here](http://aws.amazon.com/glacier/).
 
 ######The Other Problem
 
