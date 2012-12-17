@@ -102,11 +102,29 @@ task :bootstrap_js do
   <script type="text/javascript" src="/bootstrap/js/<%= path %>"></script><% end %>
   }
 
+  files_to_exclude = [
+    'affix',
+    'alert',
+    'button',
+    'carousel',
+    'collapse',
+    'dropdown',
+    'modal',
+    'popover',
+    'scrollspy',
+    'tab',
+    'tooltip',
+    'transition',
+    'typeahead'
+  ]
   paths = []
   minifier = Uglifier.new
   Dir.glob(File.join(BOOTSTRAP_SOURCE, 'js', '*.js')).each do |source|
     base = File.basename(source).sub(/^(.*)\.js$/, '\1.min.js')
-    paths << base
+    shortname = base.sub(/^bootstrap-(.*)\.min\.js$/, '\1')
+    excluded = files_to_exclude.include? shortname
+    puts "Excluding #{base}" if excluded
+    paths << base unless excluded
     target = File.join('bootstrap/js', base)
     if different?(source, target)
       File.open(target, 'w') do |out|
