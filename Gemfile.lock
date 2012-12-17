@@ -72,6 +72,9 @@ DEPENDENCIES
   liquid
   rack
   rake
+  rb-fchange
+  rb-fsevent
+  rb-inotify
   rdiscount
   thin
   uglifier
