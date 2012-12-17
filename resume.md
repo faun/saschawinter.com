@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Resume
+title: Resume
 
 ---
 

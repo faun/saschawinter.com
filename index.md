@@ -9,6 +9,6 @@ title: Sascha Faun Winter
   </div>
   <div class="span6">
     <h2>Pragmatic Web Developer &amp; Sculptor of Awesome</h2>
-    <p>See my <a href="resume.html">resume</a> for more information.</p>
+    <p>See <a href="resume.html">resume</a> for more information.</p>
   </div>
 </div>
