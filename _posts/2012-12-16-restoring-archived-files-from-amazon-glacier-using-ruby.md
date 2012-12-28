@@ -37,7 +37,7 @@ or, to resume a stopped job:
 
     ruby glacier_restore.rb >> out.txt 2>>err.txt
 
-###tldr;
+###tl;dr
 
 This script can be used to restore Amazon S3 objects that were archived using the [lifecycle](http://docs.amazonwebservices.com/AmazonS3/latest/UG/LifecycleConfiguration.html) feature of Amazon S3. 
 
