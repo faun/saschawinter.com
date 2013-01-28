@@ -27,7 +27,7 @@ To install these gems, run:
 
 ### Install RSpec
 
-To install `rspec-rails` and tell Rails to use RSpec as a testing framework instead of `Test::Unit`, run:
+To install `rspec-rails` and tell Rails to use RSpec as the default testing framework instead of `Test::Unit`, run:
 
     rails generate rspec:install
 
