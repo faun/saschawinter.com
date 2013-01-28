@@ -5,5 +5,5 @@ guard 'less', :all_on_start => true, :all_after_change => true, :output => 'boot
   watch(%r{^bootstrap/less/(.+\.less)$})
 end
 guard 'jekyll', :all_on_start => true, :all_after_change => true do
-  watch (%r{^(.+\.html)|(.+\.css)|(.+\.markdown)|(_config\.yml)$})
+  watch(%r{^(.+\.html)|(.+\.css)|(.+\.markdown|md)|(_config\.yml)$})
 end
