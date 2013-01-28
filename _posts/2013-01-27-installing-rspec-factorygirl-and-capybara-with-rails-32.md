@@ -46,3 +46,11 @@ To use Capybara in your feature specs, all you need to do is require it from `sp
 <script src="https://gist.github.com/4650825.js"></script>
 
 As of Capybara 2.0, there is no configuration necessary to get access to the Capybara DSL (visit/page), given they are placed in the right location. See [this page](http://rubydoc.info/gems/rspec-rails/file/Capybara.md#Upgrading_to_Capybara-2_0) for (slightly) more information. When you generate new feature tests, place them in `spec/features` to use Capybara DSL. Simple enough.
+
+### FactoryGirl Definitions
+
+In addition to requiring Capybara, you will want to add an additional line to `spec/spec_helper.rb`:
+
+<script src="https://gist.github.com/4651845.js"></script>
+
+This ensures that the factories in `spec/factories` will be detected correctly and you can begin to use them without any further configuration.
