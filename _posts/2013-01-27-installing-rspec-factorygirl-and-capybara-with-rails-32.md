@@ -11,7 +11,7 @@ Let's get started. Begin by starting a new Rails project in the directory of you
 
     rails new my_app -T
 
-This will generate a new app without the test-unit folders as usually would accompany a new Rails project
+This will generate a new app without the `Test::Unit` directories as usually would accompany a new Rails project
 
 ### The Gemfile
 
