@@ -21,8 +21,6 @@ name: Sascha Faun Winter
 header_navigation:
     - name: Home
       url:  /
-    - name: Projects
-      url:  /projects.html
     - name: Resume
       url:  /resume.html
 
