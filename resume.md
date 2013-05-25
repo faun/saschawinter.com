@@ -22,7 +22,7 @@ He is a craftsman of hand-coded, cross-browser compatible frontend code with a s
 
 - Languages: Ruby, HTML, CSS, JavaScript
 
-- Tools: BDD/TDD, Rspec, MiniTest & TestUnit, QUnit, Jasmine & Mocha, PHPUnit, Postgres, MySQL and Redis.
+- Tools: BDD/TDD, Rspec, MiniTest & Test::Unit, QUnit, Jasmine & Mocha, PHPUnit, Postgres, MySQL and Redis.
 
 - Frameworks: Ruby on Rails 2-4 (Since 2008), Sinatra & Static Ruby Frameworks, Ember.js, Backbone, CodeIgniter, WordPress & custom development
 
@@ -38,7 +38,7 @@ Founder and lead developer at a software development company focused on building
 
 ####Application Developer; John McNeil Studio, Berkeley, CA - April 2012 to July 2012
 
-Created sophisticated web and mobile applications using Ruby on Rails, Test-Unit, Capybara, Backbone, jQuery, QUint, Sinon.js, HTML5, CSS3, and PhoneGap for a major health insurance company.
+Created sophisticated web and mobile applications using Ruby on Rails, Test::Unit, Capybara, Backbone, jQuery, QUint, Sinon.js, HTML5, CSS3, and PhoneGap for a major health insurance company.
 
 ####Web/Applications Developer; Traction Corporation, San Francisco, CA - Mar 2008 to April 2012
 
