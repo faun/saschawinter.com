@@ -18,11 +18,15 @@ Craftsman of hand-coded, cross-browser compatible frontend code with a strong ad
 
 - Languages: Ruby, HTML, CSS, JavaScript
 
-- Tools: BDD/TDD, Rspec, MiniTest & TestUnit, QUnit, Jasmine, PHPUnit
+- Tools: BDD/TDD, Rspec, MiniTest & TestUnit, QUnit, Jasmine & Mocha, PHPUnit
 
-- Frameworks: Rails 2 & 3, Sinatra & Static Ruby Frameworks, Backbone, CodeIgniter, WordPress & custom development
+- Frameworks: Rails 2 & 3, Sinatra & Static Ruby Frameworks, Ember.js, Backbone, CodeIgniter, WordPress & custom development
 
-##Employment
+##Selected Employment
+
+####Senior Developer; Cloud City Development, San Francisco, Ca - February 2013 – Present
+
+Helping to build minimum viable products for lean startups and helping established businesses augment their applications to reach the scale of success. By helping companies build applications quickly and get into the marketplace as soon as possible, we give emerging companies and opportunity discover their product, their customers and their voice.
 
 ####Owner & CEO; Hydra Development, Inc., San Francisco, Ca - August 2012 to Present
 
