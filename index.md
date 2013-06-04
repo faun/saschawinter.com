@@ -9,7 +9,7 @@ title: Sascha Faun Winter
   </div>
   <div class="span6">
     <h2>Sculptor of Awesome</h2>
-    <p>Faun is a software developer located in San Francisco, Ca with a strong background in Ruby and Rails, modern HTML & JavaScript and automated testing. Utilizing test-driven development methodologies, he is adept at building non-trivial cloud-milked synthetic algorithms utilizing Hypermedia APIs and magical unicorns.</p>
+    <p>Faun is a full-stack software engineer located in San Francisco, California with a strong background in automated testing and modern web technologies. Utilizing behavior-driven development methodologies, Faun is adept at building non-trivial cloud-milked synthetic algorithms utilizing location-aware synergistic collaboration and magical unicorns.</p>
     <p>See <a href="resume.html">resume</a> for more information.</p>
   </div>
 </div>
