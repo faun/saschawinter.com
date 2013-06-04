@@ -28,7 +28,7 @@ He is a craftsman of hand-coded, cross-browser compatible frontend code with a s
 
 ####Senior Developer; Cloud City Development, San Francisco, Ca - February 2013 – Present
 
-Helping to build minimum viable products for lean startups and helping established businesses augment their applications to reach the scale of success. By helping companies build applications quickly and get into the marketplace as soon as possible, Cloud City Development gives emerging companies and opportunity discover their product, their customers and their voice.
+Helping to build minimum viable products for lean startups and helping established businesses augment their applications to reach the scale of success. By helping companies build applications quickly and get into the marketplace as soon as possible, Cloud City Development gives emerging companies an opportunity discover their product, their customers and their voice.
 
 ####Owner & CEO; Hydra Development, Inc., San Francisco, Ca - August 2012 to Present
 
