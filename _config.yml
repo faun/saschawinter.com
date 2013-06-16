@@ -23,6 +23,8 @@ header_navigation:
       url:  /
     - name: Resume
       url:  /resume.html
+    - name: Contact
+      url:  /contact.html
 
 external_links:
     - name: Twitter
